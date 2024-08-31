@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0xa822aF484Db265e5bdE05aC644FD531B53d72CA3
 ```
 
 ## Steps
@@ -73,10 +73,3 @@ npm run transfer
 - Open the tx-hash.txt (location in utils folder)
 - Copy the address and paste the tx hash link into testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
-
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
-
-0xCd825ae0335190f4c8882DF16FB0577d478b3898
